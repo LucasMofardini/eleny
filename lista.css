@@ -14,6 +14,10 @@ body{
 	background-attachment: fixed;
 
 }
+.arrumar{
+	position: absolute;
+	left:43%;
+}
 .corpo{
 	margin:0 auto;
 	width: 1024px;
